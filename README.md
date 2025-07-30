@@ -6,41 +6,42 @@
 Data was ingested, cleaned, transformed, analyzed, and visualized — all from scratch.
 
 
-## Tech Stack
+## ⚙️Tech Stack
 ### • Python – pandas, numpy, matplotlib, seaborn
 ### • SQL – SQLite3 for querying and transformation
 ### • Power BI – for interactive dashboarding
 ### • Jupyter Notebook, SQLAlchemy, logging, scripting
 
 
-## Workflow Overview
+
+## 🔁 Workflow Overview
 ##  1. Data Ingestion & Storage
-###  • 4 CSV files (one >1.5GB) loaded using pandas
-###  • Converted to SQL tables via SQLAlchemy
-###  • Scripted ingestion pipeline with logging
+####  • 4 CSV files (one >1.5GB) loaded using pandas
+####  • Converted to SQL tables via SQLAlchemy
+####  • Scripted ingestion pipeline with logging
 
 ##  2.Data Cleaning & Transformation
-###  • Merged 4 tables using SQL joins
-###  • Cleaned nulls, added calculated fields like: Gross Profit, Profit Margin, Inventory Turnover
-###  • Final aggregated table stored back to DB
+####  • Merged 4 tables using SQL joins
+####  • Cleaned nulls, added calculated fields like: Gross Profit, Profit Margin, Inventory Turnover
+####  • Final aggregated table stored back to DB
 
 ##  3. Exploratory Data Analysis
-###  • Visualized vendor-brand relationships
-###  • Charts: scatter, boxplot, pie, stacked bars, heatmap
-###  • Solved business questions using statistical visuals
+####  • Visualized vendor-brand relationships
+####  • Charts: scatter, boxplot, pie, stacked bars, heatmap
+####  • Solved business questions using statistical visuals
 
 ##  4. Power BI Dashboard
-###   Created an interactive dashboard showcasing:
-###    • High-margin low-sales brands
-###    • Top-performing vendors
-###    • Category-wise contribution to revenue 
+####   Created an interactive dashboard showcasing:
+####    • High-margin low-sales brands
+####    • Top-performing vendors
+####    • Category-wise contribution to revenue 
 
 
 
-## Key Insights
-### • Pinpointed brands needing promotion for high-margin gains
-### • Identified vendors dominating sales & purchase share
-### • Found low stock turnover areas for optimization
-### • Enabled smart procurement decisions with visuals
+## 🎯Key Insights
+#### • Pinpointed brands needing promotion for high-margin gains
+#### • Identified vendors dominating sales & purchase share
+#### • Found low stock turnover areas for optimization
+#### • Enabled smart procurement decisions with visuals
 
 
